@@ -1,0 +1,94 @@
+{
+  "category": [
+    {
+      "name": "Nuts",
+      "title": "Fresh And Organic\nNUTS",
+      "products_list": [
+        {
+          "name": "Almonds",
+          "image": "assets/res/almond.jpeg",
+          "price": "₹ 800",
+          "quantity": "1 Kg"
+        },
+        {
+          "name": "Mamra",
+          "image": "assets/res/mamra.jpeg",
+          "price": "₹ 800",
+          "quantity": "250 gram"
+        },
+        {
+          "name": "Kaju",
+          "image": "assets/res/cashew.jpeg",
+          "price": "₹ 1100",
+          "quantity": "1 Kg"
+        },
+        {
+          "name": "Pista",
+          "image": "assets/res/pista.jpeg",
+          "price": "₹ 1250",
+          "quantity": "1 Kg"
+        },
+        {
+          "name": "kishmish",
+          "image": "assets/res/kismis.jpeg",
+          "price": "₹ 400",
+          "quantity": "1 Kg"
+        },
+        {
+          "name": "Akrot",
+          "image": "assets/res/walnut.jpeg",
+          "price": "₹ 1000",
+          "quantity": "1 Kg"
+        },
+        {
+          "name": "Anjeer",
+          "image": "assets/res/anjeer.jpeg",
+          "price": "₹ 1000",
+          "quantity": "500 gram"
+        },
+        {
+          "name": "Makhane",
+          "image": "assets/res/almond.jpeg",
+          "price": "₹ 400",
+          "quantity": "250 gram"
+        },
+        {
+          "name": "Muesli",
+          "image": "assets/res/mix.jpeg",
+          "price": "₹ 400",
+          "quantity": "500 gram"
+        }
+      ]
+    },
+    {
+      "name": "Berries",
+      "title": "Fresh And Organic\nNUTS",
+      "products_list": [
+        {
+          "name": "Cranberry",
+          "image": "assets/res/almond.jpeg",
+          "price": "₹ 400",
+          "quantity": "250 gram"
+        },
+        {
+          "name": "Strawberry",
+          "image": "assets/res/almond.jpeg",
+          "price": "₹ 500",
+          "quantity": "250 gram"
+        },
+        {
+          "name": "Blueberry",
+          "image": "assets/res/almond.jpeg",
+          "price": "₹ 500",
+          "quantity": "200 gram"
+        },
+        {
+          "name": "Blackberry",
+          "image": "assets/res/almond.jpeg",
+          "price": "₹ 550",
+          "quantity": "200 gram"
+        }
+      ]
+    }
+  ]
+}
