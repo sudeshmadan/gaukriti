@@ -63264,7 +63264,7 @@ var $async$pR=A.T(function(a,b){if(a===1)return A.P(b,r)
 while(true)switch(s){case 0:p=new A.ZC()
 o=B.bN
 s=3
-return A.W($.Ac().a3p("data/product_data.json"),$async$pR)
+return A.W($.Ac().a3p("assets/data/product_data.json"),$async$pR)
 case 3:q=p.M3(o.IM(0,b,null),t.Mx)
 s=1
 break

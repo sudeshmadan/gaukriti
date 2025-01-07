@@ -7,13 +7,13 @@
         {
           "name": "Almonds",
           "image": "assets/res/almond.jpeg",
-          "price": "₹ 800",
+          "price": "₹ 850",
           "quantity": "1 Kg"
         },
         {
           "name": "Mamra",
           "image": "assets/res/mamra.jpeg",
-          "price": "₹ 800",
+          "price": "₹ 840",
           "quantity": "250 gram"
         },
         {
@@ -24,7 +24,7 @@
         },
         {
           "name": "Pista",
-          "image": "assets/res/pista.jpeg",
+          "image": "assets/res/no-image-icon.png",
           "price": "₹ 1250",
           "quantity": "1 Kg"
         },
@@ -37,8 +37,14 @@
         {
           "name": "Akrot",
           "image": "assets/res/walnut.jpeg",
-          "price": "₹ 1000",
+          "price": "₹ 850",
           "quantity": "1 Kg"
+        },
+        {
+          "name": "Akrot Giri",
+          "image": "assets/res/no-image-icon.png",
+          "price": "₹ 650",
+          "quantity": "500 gram"
         },
         {
           "name": "Anjeer",
@@ -57,36 +63,6 @@
           "image": "assets/res/mix.jpeg",
           "price": "₹ 400",
           "quantity": "500 gram"
-        }
-      ]
-    },
-    {
-      "name": "Berries",
-      "title": "Fresh And Organic\nNUTS",
-      "products_list": [
-        {
-          "name": "Cranberry",
-          "image": "assets/res/almond.jpeg",
-          "price": "₹ 400",
-          "quantity": "250 gram"
-        },
-        {
-          "name": "Strawberry",
-          "image": "assets/res/almond.jpeg",
-          "price": "₹ 500",
-          "quantity": "250 gram"
-        },
-        {
-          "name": "Blueberry",
-          "image": "assets/res/almond.jpeg",
-          "price": "₹ 500",
-          "quantity": "200 gram"
-        },
-        {
-          "name": "Blackberry",
-          "image": "assets/res/almond.jpeg",
-          "price": "₹ 550",
-          "quantity": "200 gram"
         }
       ]
     }
